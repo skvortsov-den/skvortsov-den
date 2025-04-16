@@ -4,7 +4,7 @@ I'm a **QA Automation Engineer / SDET** specializing in end-to-end testing with 
 I focus on improving test automation workflows, optimizing CI/CD pipelines, and integrating testing into the SDLC.  
 I enjoy building stable infrastructure, designing selective test execution strategies, and mentoring QA engineers.
 
-In addition to frontend-oriented testing, I’ve also worked with **Java**, **Python**, and **Bash** — mostly for tools, backend testing, and automation scripting
+In addition to frontend-oriented testing, I’ve also worked with **Java**, **Python**, and **Bash** - mostly for tools, backend testing, and automation scripting
 My approach is driven by **reliability**, **efficiency**, and thoughtful **engineering practices**
 
 ---
