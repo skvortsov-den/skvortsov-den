@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Denis Skvortsov
 
-I'm a **QA Automation Engineer / SDET** specializing in end-to-end testing with **Playwright**, **Cypress**, and **TypeScript**.  
+I'm a **QA Automation Engineer / SDET** specializing in end-to-end testing with **Playwright**, **Cypress**, and **TypeScript**/**JavaScript**.  
 I focus on improving test automation workflows, optimizing CI/CD pipelines, and integrating testing into the SDLC.  
 I enjoy building stable infrastructure, designing selective test execution strategies, and mentoring QA engineers.
 
